@@ -1,4 +1,3 @@
-
 🚀 This isn't just a pipeline - it's a full-blown, end-to-end CI/CD masterpiece! 💯
 
  Here's a breakdown of my pipeline: 🌟🎉
@@ -20,7 +19,7 @@
 
 Here's my pipeline 🌟🎉
 
-pipeline {
+    pipeline {
     agent any
     
     tools {
@@ -186,4 +185,4 @@ pipeline {
             }
         }
     }
-}
+    }

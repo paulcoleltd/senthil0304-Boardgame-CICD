@@ -1,8 +1,7 @@
-🚀I'm absolutely excited to share my recent DevOps project for Java applications! 🌟🎉
 
-🔥 This isn't just a pipeline - it's a full-blown, end-to-end CI/CD masterpiece! 💯
+🚀 This isn't just a pipeline - it's a full-blown, end-to-end CI/CD masterpiece! 💯
 
- Here's a breakdown of my pipeline:
+ Here's a breakdown of my pipeline: 🌟🎉
 
 🔍 Git Checkout: Pulls the latest code from the main branch.
 🛠️ Compile: Compiles the Java code using Maven.
@@ -18,6 +17,8 @@
 🚀 Deploy to Kubernetes: Applies Kubernetes manifests to deploy the application.
 ✅ Verify Deployment: Checks the status of pods and services in Kubernetes.
 📧 Email Notification: Sends an email with the pipeline status and report
+
+Here's my pipeline 🌟🎉
 
 pipeline {
     agent any

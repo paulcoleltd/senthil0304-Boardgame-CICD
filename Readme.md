@@ -1,6 +1,6 @@
-🚀I'm absolutely excited to share my recent DevOps project for Java applications! 🌟🎉
+I'm absolutely excited to share my recent DevOps project for Java applications! 
 
-🔥 This isn't just a pipeline - it's a full-blown, end-to-end CI/CD masterpiece! 💯
+🚀This isn't just a pipeline - it's a full-blown, end-to-end CI/CD masterpiece! 🌟🎉
 
  🛠️ Key technologies and tools used:
 
